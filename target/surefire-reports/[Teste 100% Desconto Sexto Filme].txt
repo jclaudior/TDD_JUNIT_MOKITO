@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: [Teste 100% Desconto Sexto Filme]
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.539 sec - in [Teste 100% Desconto Sexto Filme]

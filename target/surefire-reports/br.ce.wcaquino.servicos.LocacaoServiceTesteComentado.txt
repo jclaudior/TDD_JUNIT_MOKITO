@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: br.ce.wcaquino.servicos.LocacaoServiceTesteComentado
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.707 sec <<< FAILURE! - in br.ce.wcaquino.servicos.LocacaoServiceTesteComentado
+deveDevolverNaSegundaSeAlugarNoSabado(br.ce.wcaquino.servicos.LocacaoServiceTesteComentado)  Time elapsed: 0.04 sec  <<< FAILURE!
+java.lang.AssertionError: 
+
+Expected: Segunda-feira
+     but: was <Sat Jan 09 14:11:14 BRT 2021>
+	at br.ce.wcaquino.servicos.LocacaoServiceTesteComentado.deveDevolverNaSegundaSeAlugarNoSabado(LocacaoServiceTesteComentado.java:293)
+
